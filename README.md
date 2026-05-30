@@ -1,9 +1,9 @@
 # live-onion-network-LON----The-internet-we-want-is-not-a-service-it-s-a-common-good.
 live onion network LON -- The internet we want is not a service — it's a common good.
 
-Author:piromasbr
 
-# 🧅 Live Onion Network (LON)
+
+# 🧅 Live Onion Network (LON) (author:piromasbr)
 
 > **The internet we want is not a service — it's a common good.**
 
